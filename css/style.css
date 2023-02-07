@@ -1,0 +1,110 @@
+.header-box{
+    margin: 0 auto;
+    width: 1440px;
+}
+.ul-item{
+    display: flex;
+}
+.li-item{
+    margin-left: 22px;
+    margin-top: 20px;
+    color: #707070;
+}
+.container-1{
+    width: 1175px;
+    margin-left: 125px;
+    display: flex;
+    background-color: #F6F8F9;
+   
+}
+.box{
+    width: 360px;
+    height: 350px;
+    margin-right: 40px;
+    position: relative;
+    background-color: #FFFFFF;
+    
+
+}
+.image-box{
+    width: 360px;
+    height: 180px;
+}
+.text{
+    width: 280px;
+    color: #A6ADB4;
+    padding: 66px 40px; 
+}
+.title{
+    color: #202124;
+    margin: 26px 275px 44px 60px;
+    font-size: 24px;
+}
+.relative{
+    position:relative ;
+}    
+.child-box{
+    position: absolute;
+    left: 40px;
+    color: #FFFFFF;
+    top: 28px;
+    font-size: 16px;
+    width: 280px
+}
+.time{
+    width: 69px;
+    display: flex;
+    margin-left: 40px
+
+}
+.image{
+    width: 16px;
+}
+.title2{
+    color: #202124;
+    margin-top: 56px;
+    margin-bottom: 40px;
+    margin-left: 140px;
+    font-size: 24px;
+    width: 770px
+
+}
+.box1{
+    position: relative;
+    width: 1181px;
+    height: 430px;
+    margin-bottom: 40px;
+    margin-left: 112px;
+    display: flex;
+    justify-content: space-between;
+}
+.child-box1{
+    color: #FFFFFF;
+    font-size: 16px;
+    position: absolute;
+    margin-top: 194px;
+    margin-right: 158px;
+    margin-bottom: 220px;
+    margin-left: 329px;
+    width: 280px;
+}
+.forest{
+    width: 774px;
+    margin-left: 50px;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 896px;
+    width: 360px;
+}
+.animals{
+    margin-bottom: 102px;
+}
+.logo{
+    width: 38px;
+    height: 15px;
+    margin-right: 92px;
+    margin-top: 18px;
+}
